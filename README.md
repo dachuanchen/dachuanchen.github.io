@@ -1,3 +1,4 @@
+   <html>
    <body>
               <img src = "DachuanChen.jpg" alt = "Test Image" width = "200" height = "200" align="right"/>
       	      <h1>Dachuan Chen</h1>
@@ -29,3 +30,4 @@ Industrial and Systems Engineers, 2018.)</p></li>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
    <hr>
 </body>
+</html>
