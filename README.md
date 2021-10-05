@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <body>
               <img src = "DachuanChen.jpg" alt = "Test Image" width = "200" height = "200" align="right"/>
