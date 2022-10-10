@@ -24,7 +24,13 @@ Industrial and Systems Engineers, 2018.)</p></li>
    <hr>
               <h2>Working Papers</h2>
       	      <ol>
-                      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2021). <a>Realized Regression with Asynchronous and Noisy High Frequency Data</a>.</p></li>
+                      <li><p>Chen, D., Mykland, P.A. and Zhang, L., 2021. <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. In revision.</p></li>
+		      <li><p>Chen, D. and Li, C., 2021. <a>Closed-Form Expansion for Option Price under Stochastic Volatility Model with Concurrent Jumps. In revision</a>.</p></li>
+		      <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. 2021. <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> In revision.</p></li>
+		      <li><p>Chen, D., 2022. <a>Principal Component Analysis based on Correlation Matrix with Asynchronous and Noisy High Frequency Data. Available at SSRN 4134047.</a> In revision.</p></li>
+		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data.</a> Available at SSRN 4139323.</p></li>
+		      <li><p>Chen, D. and Feng, L., 2022. <a>Asymptotic Independence of the Quadratic form and Maximum of Independent Random Variables with Applications to High-Dimensional Tests.</a> arXiv preprint arXiv:2204.08628.</p></li>
+		      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2021). <a>Realized Regression with Asynchronous and Noisy High Frequency Data</a>.</p></li>
               </ol>        
    <hr>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
