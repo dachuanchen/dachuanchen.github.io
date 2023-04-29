@@ -14,8 +14,8 @@
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
-                      <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. 2021. <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> <i>Forthcoming in Journal of Business & Economic Statistics</i>.</p></li>
-		      <li><p>Chen, D., Mykland, P.A. and Zhang, L., 2021. <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. <i>Forthcoming in Journal of Econometrics</i>.</p></li>
+                      <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> <i>Forthcoming in Journal of Business & Economic Statistics</i>.</p></li>
+		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. <i>Forthcoming in Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2020). <a href = "PCA_JASA.pdf" target = "_blank">The Five Trolls under the Bridge: Principal Component Analysis with Asynchronous and Noisy High Frequency Data</a>. <i>Journal of American Statistical Association</i>, <b>115(532)</b>, 1960-1977. </p></li>
                       <li><p>Mykland, P.A., Zhang, L., and Chen, D. (2019). <a href = "AlternativeTSRV_JoE_201901.pdf" target = "_blank">The Algebra of Two Scales Estimation, and the S-TSRV: High Frequency Estimation that is Robust to Sampling Times</a>. <i>Journal of Econometrics</i>, <b>208(1)</b>, 101-119. </p></li>
                       <li><p>Li, C., and Chen, D. (2016). <a href = "JDexpansion.pdf" target = "_blank">Estimating jump-diffusions using closed-form likelihood expansions</a>. <i>Journal of Econometrics</i>, <b>195(1)</b>, 51-70. [<a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2807257" target = "_blank">Supplementary Material</a>] </p></li>
@@ -26,7 +26,7 @@ Industrial and Systems Engineers, 2018.)</p></li>
    <hr>
               <h2>Working Papers</h2>
       	      <ol>
-		      <li><p>Chen, D., 2022. <a>Principal Component Analysis based on Correlation Matrix with Asynchronous and Noisy High Frequency Data. Available at SSRN 4134047.</a> In revision.</p></li>
+		      <li><p>Chen, D., 2023. <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4134047.</a> In revision.</p></li>
 		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data.</a> Available at SSRN 4139323.</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
 		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times.</a> Available at SSRN 4420129.</p></li>
