@@ -7,13 +7,14 @@
               <p>Nankai University</p>
               <p>Email: dchen@nankai.edu.cn</p>
               <p></p><p></p>
-              <p>This page is updated in April 2023.</p>
+              <p>This page is updated in August 2023.</p>
    <hr>
    <h2>General Background</h2>
    I joined the School of Statistics and Data Science of Nankai University at December 2019. I received my Ph.D. degree in Business Administration at University of Illinois at Chicago at May 2019. My dissertation advisors are Professor <a href = "https://business.uic.edu/profiles/lan-zhang/" target = "_blank">Lan Zhang</a> (from UIC) and Professor <a href = "http://galton.uchicago.edu/~mykland/" target = "_blank">Per Mykland</a> (from University of Chicago). I received my B.S. degree in Statistics from Nankai University, Tianjin, P.R. China, in 2012. I was a Ph.D. student in the Computer Science and Information System Program at University of Colorado at Denver from 2012 to 2014. I was an exchange scholar at Department of Statistics, University of Chicago from 2015 to 2016. I received the <a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/" target = "_blank">Stevanovich Student Fellowship</a> for 2018 from the Stevanovich Center for Financial Mathematics, University of Chicago.
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
+		      <li><p>Chen, D., Song, F. and Feng, L., 2023. Rank Based Tests for High Dimensional White Noise. Forthcoming in Statistica Sinica.</p></li>
                       <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> <i>Forthcoming in Journal of Business & Economic Statistics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. <i>Forthcoming in Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2020). <a href = "PCA_JASA.pdf" target = "_blank">The Five Trolls under the Bridge: Principal Component Analysis with Asynchronous and Noisy High Frequency Data</a>. <i>Journal of American Statistical Association</i>, <b>115(532)</b>, 1960-1977. </p></li>
@@ -27,11 +28,10 @@ Industrial and Systems Engineers, 2018.)</p></li>
               <h2>Working Papers</h2>
       	      <ol>
 		      <li><p>Chen, D., 2023. <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4134047.</a> In revision.</p></li>
-		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data.</a> Available at SSRN 4139323.</p></li>
+		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data. Available at SSRN 4139323.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
 		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times.</a> Available at SSRN 4420129.</p></li>
-		      <li><p>Chen, D. and Feng, L., 2022. <a>Asymptotic Independence of the Quadratic form and Maximum of Independent Random Variables with Applications to High-Dimensional Tests.</a> arXiv preprint arXiv:2204.08628.</p></li>
-		      <li><p>Chen, D. and Feng, L., 2022. Rank Based Tests for High Dimensional White Noise. arXiv preprint arXiv:2204.08402.</p></li>
+		      <li><p>Chen, D. and Xie, S., 2023. <a>High Frequency Factor Analysis with Partially Observable Factors.</a> Available at SSRN 4539005.</p></li>
               </ol>        
    <hr>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
