@@ -14,7 +14,7 @@
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
-		      <li><p>Chen, D., Song, F. and Feng, L., 2023. Rank Based Tests for High Dimensional White Noise. Forthcoming in Statistica Sinica.</p></li>
+		      <li><p>Chen, D., Song, F. and Feng, L. (2023). Rank Based Tests for High Dimensional White Noise. Forthcoming in Statistica Sinica.</p></li>
                       <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> <i>Forthcoming in Journal of Business & Economic Statistics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. <i>Forthcoming in Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2020). <a href = "PCA_JASA.pdf" target = "_blank">The Five Trolls under the Bridge: Principal Component Analysis with Asynchronous and Noisy High Frequency Data</a>. <i>Journal of American Statistical Association</i>, <b>115(532)</b>, 1960-1977. </p></li>
@@ -31,7 +31,7 @@ Industrial and Systems Engineers, 2018.)</p></li>
 		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data. Available at SSRN 4139323.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
 		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times.</a> Available at SSRN 4420129.</p></li>
-		      <li><p>Chen, D. and Xie, S., 2023. <a>High Frequency Factor Analysis with Partially Observable Factors.</a> Available at SSRN 4539005.</p></li>
+		      <li><p>Chen, D. and Xie, S. 2023. <a>High Frequency Factor Analysis with Partially Observable Factors.</a> Available at SSRN 4539005.</p></li>
               </ol>        
    <hr>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
