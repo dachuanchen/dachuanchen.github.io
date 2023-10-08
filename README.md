@@ -7,10 +7,16 @@
               <p>Nankai University</p>
               <p>Email: dchen@nankai.edu.cn</p>
               <p></p><p></p>
-              <p>This page is updated in August 2023.</p>
+              <p>This page is updated in October 2023.</p>
    <hr>
    <h2>General Background</h2>
    I joined the School of Statistics and Data Science of Nankai University at December 2019. I received my Ph.D. degree in Business Administration at University of Illinois at Chicago at May 2019. My dissertation advisors are Professor <a href = "https://business.uic.edu/profiles/lan-zhang/" target = "_blank">Lan Zhang</a> (from UIC) and Professor <a href = "http://galton.uchicago.edu/~mykland/" target = "_blank">Per Mykland</a> (from University of Chicago). I received my B.S. degree in Statistics from Nankai University, Tianjin, P.R. China, in 2012. I was a Ph.D. student in the Computer Science and Information System Program at University of Colorado at Denver from 2012 to 2014. I was an exchange scholar at Department of Statistics, University of Chicago from 2015 to 2016. I received the <a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/" target = "_blank">Stevanovich Student Fellowship</a> for 2018 from the Stevanovich Center for Financial Mathematics, University of Chicago.
+   <hr>
+              <h2>Academic Appointments</h2>
+      	      <ol>
+		      <li><p>Dec 2019 - present: Nankai University, School of Statistics and Data Science, Assistant Professor;</p></li>
+                      <li><p>Sept 2023 - present: The Hong Kong University of Science and Technology, Department of Information System, Business Statistics and Operations Management, Visiting Scholar.</p></li>
+              </ol>            
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
@@ -30,7 +36,7 @@ Industrial and Systems Engineers, 2018.)</p></li>
 		      <li><p>Chen, D., 2023. <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4134047.</a> In revision.</p></li>
 		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2022. <a>High Dimensional Beta Test with High Frequency Data. Available at SSRN 4139323.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
-		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times.</a> Available at SSRN 4420129.</p></li>
+		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4420129.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Xie, S. 2023. <a>High Frequency Factor Analysis with Partially Observable Factors.</a> Available at SSRN 4539005.</p></li>
               </ol>        
    <hr>
