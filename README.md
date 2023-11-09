@@ -38,6 +38,7 @@ Industrial and Systems Engineers, 2018.)</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
 		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4420129.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Xie, S. 2023. <a>High Frequency Factor Analysis with Partially Observable Factors.</a> Available at SSRN 4539005.</p></li>
+		      <li><p>Chen, D., Li, Y. and Wang, C.D. 2023. <a>Estimating Leverage Effect and Volatility of Volatility in the Presence of Jumps, Microstructure Noise and Irregular Observation Times.</a> Available at SSRN 4625351.</p></li>
               </ol>        
    <hr>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
