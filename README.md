@@ -5,7 +5,7 @@
       	      <p>Assistant Professor</p>
 	      <p>School of Statistics and Data Science</p>
               <p>Nankai University</p>
-              <p>Email: dchen@nankai.edu.cn</p>
+              <p>Email: dachuan.chen.us@gmail.com</p>
               <p></p><p></p>
               <p>This page is updated in October 2023.</p>
    <hr>
@@ -42,7 +42,6 @@ Industrial and Systems Engineers, 2018.)</p></li>
               </ol>        
    <hr>
                <p>[<a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/dachuan-chen/" target = "_blank">Dachuan's Webpage at Stevanovich Center of Financial Mathematics, University of Chicago</a>]</p>        
-	       <p>[<a href = "https://my.nankai.edu.cn/stat/cdc_en/list.htm" target = "_blank">Dachuan's Webpage at School of Statistics and Data Science, Nankai University</a>]</p>  
    <hr>
 </body>
 </html>
