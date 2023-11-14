@@ -12,6 +12,9 @@
    <h2>General Background</h2>
    I joined the School of Statistics and Data Science of Nankai University at December 2019. I received my Ph.D. degree in Business Administration at University of Illinois at Chicago at May 2019. My dissertation advisors are Professor <a href = "https://business.uic.edu/profiles/lan-zhang/" target = "_blank">Lan Zhang</a> (from UIC) and Professor <a href = "http://galton.uchicago.edu/~mykland/" target = "_blank">Per Mykland</a> (from University of Chicago). I received my B.S. degree in Statistics from Nankai University, Tianjin, P.R. China, in 2012. I was a Ph.D. student in the Computer Science and Information System Program at University of Colorado at Denver from 2012 to 2014. I was an exchange scholar at Department of Statistics, University of Chicago from 2015 to 2016. I received the <a href = "https://stevanovichcenter.uchicago.edu/stevanovich-fellowship-awardees/" target = "_blank">Stevanovich Student Fellowship</a> for 2018 from the Stevanovich Center for Financial Mathematics, University of Chicago.
    <hr>
+              <h2>Research Interests</h2>
+              Financial Econometrics, High Frequency Econometrics, High Dimensional Statistics
+   <hr>
               <h2>Academic Appointments</h2>
       	      <ol>
 		      <li><p>Dec 2019 - present: Nankai University, School of Statistics and Data Science, Assistant Professor;</p></li>
