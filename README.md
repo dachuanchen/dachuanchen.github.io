@@ -23,9 +23,9 @@
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
-		      <li><p>Chen, D., Song, F. and Feng, L. (2023). Rank Based Tests for High Dimensional White Noise. Forthcoming in Statistica Sinica.</p></li>
-                      <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> <i>Forthcoming in Journal of Business & Economic Statistics</i>.</p></li>
-		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. <i>Forthcoming in Journal of Econometrics</i>.</p></li>
+		      <li><p>Chen, D., Song, F. and Feng, L. (2023). <a>Rank Based Tests for High Dimensional White Noise.</a> Forthcoming in <i>Statistica Sinica</i>.</p></li>
+                      <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> Forthcoming in <i>Journal of Business & Economic Statistics</i>.</p></li>
+		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. Forthcoming in <i>Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A., and Zhang, L. (2020). <a>The Five Trolls under the Bridge: Principal Component Analysis with Asynchronous and Noisy High Frequency Data</a>. <i>Journal of The American Statistical Association</i>, <b>115(532)</b>, 1960-1977. </p></li>
                       <li><p>Mykland, P.A., Zhang, L., and Chen, D. (2019). <a>The Algebra of Two Scales Estimation, and the S-TSRV: High Frequency Estimation that is Robust to Sampling Times</a>. <i>Journal of Econometrics</i>, <b>208(1)</b>, 101-119. </p></li>
                       <li><p>Li, C., and Chen, D. (2016). <a>Estimating jump-diffusions using closed-form likelihood expansions</a>. <i>Journal of Econometrics</i>, <b>195(1)</b>, 51-70.</p></li>
