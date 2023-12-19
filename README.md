@@ -1,6 +1,6 @@
   <html>
    <body>
-              <img src = "DachuanChen.jpg" alt = "Test Image" width = "200" height = "200" align="right"/>
+              <img src = "Dachuan_Beihang.png" alt = "Test Image" width = "200" height = "300" align="right"/>
       	      <h1>Dachuan Chen</h1>
       	      <p>Assistant Professor</p>
 	      <p>School of Statistics and Data Science</p>
