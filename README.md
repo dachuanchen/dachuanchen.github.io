@@ -23,6 +23,7 @@
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
+		      <li><p>Chen, D., 2024. <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Forthcoming in <i>Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Song, F. and Feng, L. (2023). <a>Rank Based Tests for High Dimensional White Noise.</a> Forthcoming in <i>Statistica Sinica</i>.</p></li>
                       <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> Forthcoming in <i>Journal of Business & Economic Statistics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. Forthcoming in <i>Journal of Econometrics</i>.</p></li>
@@ -36,7 +37,6 @@ Industrial and Systems Engineers, 2018.)</p></li>
    <hr>
               <h2>Working Papers</h2>
       	      <ol>
-		      <li><p>Chen, D., 2023. <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4134047.</a> In revision.</p></li>
 		      <li><p>Chen, D., Feng, L., Mykland, P.A. and Zhang, L., 2023. <a>High Dimensional Regression Coefficient Test with High Frequency Data. Available at SSRN 4139323.</a> In revision.</p></li>
 		      <li><p>Chen, D. and Feng, L. 2023. <a>Change Point Detection in Beta Process with High Frequency Data.</a> Available at SSRN 4398513.</p></li>
 		      <li><p>Chen, D., Chen, H., Feng, L. and Xie, S. 2023. <a>High Frequency ANOVA that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Available at SSRN 4420129.</a> In revision.</p></li>
