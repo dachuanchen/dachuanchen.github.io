@@ -23,7 +23,7 @@
    <hr>
               <h2>Publications</h2>
       	      <ol reversed>
-		      <li><p>Chen, D. (2024). <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times. Forthcoming in <i>Journal of Econometrics</i>.</p></li>
+		      <li><p>Chen, D. (2024). <a>High Frequency Principal Component Analysis based on Correlation Matrix that is Robust to Jumps, Microstructure Noise and Asynchronous Observation Times.</a> Forthcoming in <i>Journal of Econometrics</i>.</p></li>
 		      <li><p>Chen, D., Song, F. and Feng, L. (2023). <a>Rank Based Tests for High Dimensional White Noise.</a> Forthcoming in <i>Statistica Sinica</i>.</p></li>
                       <li><p>Chen, D., Li, C., Tang, C.Y. and Yan, J. (2023). <a>The Leverage Effect Puzzle under Semi-nonparametric Stochastic Volatility Models.</a> Forthcoming in <i>Journal of Business & Economic Statistics</i>.</p></li>
 		      <li><p>Chen, D., Mykland, P.A. and Zhang, L. (2023). <a>Realized Regression with Asynchronous and Noisy High Frequency and High Dimensional Data</a>. Forthcoming in <i>Journal of Econometrics</i>.</p></li>
